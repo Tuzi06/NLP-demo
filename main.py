@@ -5,9 +5,10 @@ from scipy.io.wavfile import read
 from scipy.fft import fft,fftfreq
 import cv2
 
-from moviepy.editor import *
-audioclip = AudioFileClip("data/video.mp4")
-audioclip = AudioFileClip("data/audio.avi")
+# # extract audio from video
+# from moviepy.editor import *
+# clip = VideoFileClip("./data/video.mp4")
+# audio = clip.audio.write_audiofile('./data/audio.wav')
 
 
 video = cv2.VideoCapture("data/video.mp4")

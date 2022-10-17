@@ -8,7 +8,7 @@
 
 
 each person should have different frequency range
--> differentiate people by fft sound wave and filter high or low frequency [ don't know if this will work :( ] 
+-> differentiate people by fft sound signal and filter frequency [ don't know if this will work :( ] 
     => will use some kind of machine learning algo to do the seperation
     -> maybe too much overlap and cannot seperate signal if multiple person speak at same time
     -> also need filter out noise 

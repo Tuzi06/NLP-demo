@@ -10,7 +10,7 @@ take a audio file that has multiple people taking (can have a loud background no
 
 
 
-
+## Some thought:
     each person should have different frequency range
     -> differentiate people by fft sound signal and filter frequency [ don't know if this will work :( ] 
         => will use some kind of machine learning algo to do the seperation

@@ -1,4 +1,4 @@
-## Main idea: ##
+# Main idea:
 take a audio file that has multiple people taking (can have a loud background noise), output the script or subtitle for each person
 
 ## Workflow: ##

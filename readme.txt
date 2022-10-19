@@ -1,6 +1,7 @@
-Main idea: take a audio file that has multiple people taking (can have a loud background noise), output the script or subtitle for each person
+##Main idea: 
+take a audio file that has multiple people taking (can have a loud background noise), output the script or subtitle for each person
 
-Workflow:
+##Workflow:
     1. input wav file
     2. convert to signal 
     3. filter 
@@ -21,6 +22,6 @@ each person should have different frequency range
 
 
 
-Source paper:
+##Source paper:
 Supervised Speech Separation Based on Deep Learning: An Overview
     https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf
